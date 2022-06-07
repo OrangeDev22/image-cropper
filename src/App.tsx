@@ -40,7 +40,7 @@ function App() {
               onClick={() => handleCropImage()}
             >
               <AiFillCheckCircle
-                size={20}
+                size={30}
                 className="fill-green-500 hover:fill-green-700"
               />
             </button>
@@ -52,7 +52,7 @@ function App() {
               }}
             >
               <AiFillCloseCircle
-                size={20}
+                size={30}
                 className="fill-red-500 hover:fill-red-700"
               />
             </button>
